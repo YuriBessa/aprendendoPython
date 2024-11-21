@@ -14,4 +14,4 @@ print(num1 - num2) # Difference {40, 50, 30}
 
 print(num1 ^ num2) # Symetric Difference {70, 40, 50, 60, 30}
 
-print(num1 & num2) # Difference {10,20}
+print(num1 & num2) # Intersection {10,20}
